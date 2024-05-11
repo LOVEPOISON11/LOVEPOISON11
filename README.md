@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @LOVEPOISON11
-- 👀 I’m interested in ...hacking
+- 👀 I’m interested in ...pen testing
 - 🌱 I’m currently learning ...software engneering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 LOVEPOISON11/LOVEPOISON11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
