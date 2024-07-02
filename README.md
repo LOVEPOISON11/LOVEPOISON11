@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LOVEPOISON11
-- 👀 I’m interested in pen testing
+- 👀 I can perform API testing
 - 🌱 I’m currently learning software engneering
 
 <!---
